@@ -1,0 +1,130 @@
+ID	Words	Spanish	COG	French	COG	Portuguese	COG	Romanian	COG	Italian	COG
+1	all	entero	1783	tu	1788	todu	1788	tot	1788	intɛro	1783
+1	all	toðo	1788	ɑ̃tje	1783	-	0	ɨntreg	1783	tutto	1788
+2	ashes	θeniθa	565	sɑ̃dʁ	565	sĩzɐ	565	ʧenuʃə	565	ʧenere	565
+3	bark	koɾteθa	13001	ekɔʁs	1053	kaʃkɐ	13000	skwarʦə	1053	korteʧʧa	13001
+4	belly	bjentre	227	vɑ̃tʁ	227	vẽtrə	227	pənteʦe	2682	panʧa	2682
+4	belly	-	0	-	0	bɐʀigɐ	1213	-	0	vɛntre	227
+5	big	ɡɾande	383	ɡʁã	383	grɐ̃də	383	mare	751	ɡrande	383
+6	bird	paxaro	1985	wazo	1140	avə	1140	pasəre	1985	uʧːɛllo	1140
+6	bird	ave	1140	-	0	pasɐru	1985	-	0	-	0
+7	bite (V)	moɾðeɾ	2188	mɔʁdʁ	2188	murder	2188	muʃka	2188	mɔrdere	2188
+8	black	neɣɾo	2826	nwaʁ	2826	pretu	1981	neɡru	2826	nero	2826
+9	blood	saŋɡɾe	249	sɑ̃	249	sɐ̃gə	249	sɨnʤe	249	saŋɡwe	249
+10	bone	weso	839	ɔs	839	osu	839	os	839	ɔsso	839
+11	breast	seno	1088	pwatʁin	1981	pɐjtu	1981	pjept	1981	seno	1088
+11	breast	peʧo	1981	sɛ̃	1088	sɐju	1088	sɨn	1088	pɛtto	1981
+12	burn (V)	kemaɾ	496	bʁyle	1320	kɐjmar	496	arde	2795	bruʧːare	1320
+13	claw	uɲa	832	ɔ̃ɡl	832	uɲɐ	832	ungje	832	unɡja	832
+14	cloud	nuβe	1098	nɥaj	1098	nuvɐ̃j	1098	nor	1098	nuvola	1098
+15	cold	fri.o	1102	fʁwa	1102	friw	1102	reʧe	1520	freddo	1102
+15	cold	-	0	-	0	-	0	frig	1102	-	0
+16	come (V)	beniɾ	1753	vəniʁ	1753	vir	1753	veni	1753	venire	1753
+17	die (V)	moɾiɾ	2183	muʁiʁ	2183	muʀer	2183	muri	2183	morire	2183
+18	dog	pero	-13002	ʃjɛ̃	527	kɐ̃uː	527	kɨjne	527	kane	527
+19	drink (V)	beβeɾ	2019	bwɑʁ	2019	bəber	2019	be.a	2019	bere	2019
+20	dry	seko	2390	sɛk	2390	seku	2390	sek	2390	sekko	2390
+20	dry	-	0	-	0	ẽʃutu	3207	uskat	3207	aʃʃutto	3207
+21	ear 1	oɾexa	15	ɔʁɛj	15	oreʎɐ	15	ureke	15	ɔrekkjo	15
+22	earth	tjera	1831	tɛʁ	1831	tɛʀɐ	1831	pəmɨnt	1977	tɛrra	1831
+23	eat (V)	komeɾ	1323	mɑ̃ʒe	2177	kumer	1323	mɨnka	2177	manʤare	2177
+24	egg	weβo	2968	œf	2968	ovu	2968	ow	2968	wɔvo	2968
+25	eye	oxo	822	œj	822	oʎu	822	oki	822	ɔkkjo	822
+26	fat	ɡɾasa	1539	ɡʁɛs	1539	gurdurɐ	339	grəsime	1539	ɡrasso	1539
+26	fat	ɡoɾðo	339	-	0	-	0	-	0	-	0
+27	feather	pluma	947	plym	947	penɐ	1985	panə	1985	pjuma	947
+27	feather	-	0	-	0	-	0	-	0	pɛnna	1985
+28	fire	fweɣo	143	fø	143	fogu	143	fok	143	fwɔko	143
+29	fish	peskaðo	856	pwasõ	856	pɐjʃə	856	peʃte	856	peʃʃe	856
+30	fly (V)	bolaɾ	2760	vɔle	2760	vwar	2760	zbura	2760	volare	2760
+31	foot	pje	868	pje	868	pɛ	868	piʧjor	868	pjɛde	868
+32	full	ʎeno	2012	plɛ̃	2012	ʃɐju	2012	plin	2012	pjɛno	2012
+33	give (V)	daɾ	1909	dɔne	1909	dar	1909	da	1909	dare	1909
+34	good	bweno	1872	bɔ̃	1872	bõ	1872	bun	1872	bwɔno	1872
+35	green	beɾðe	1410	vɛʁ	1410	verdə	1410	verde	1410	verde	1410
+36	hair	kaβeʎo	439	ʃəvø	439	kɐbelu	439	pər	913	kapello	439
+37	hand	mano	759	mɛ̃	759	mɐ̃w	759	mɨnə	759	mano	759
+38	head	kaβeθa	442	tɛt	2689	kɐbesɐ	442	kap	442	tɛsta	2689
+39	hear (V)	o.ir	1274	ɑ̃tɑ̃dʁ	1807	ovir	1274	awzi	1274	udire	1274
+40	heart	koraθon	493	kœʁ	493	kurɐsõ	493	inimə	1284	kwɔre	493
+41	horn	kweɾno	487	kɔʁn	487	kornu	487	korn	487	kɔrno	487
+42	i	ʝo	2956	ʒə	2956	ew	2956	jo	2956	io	2956
+43	kill (V)	mataɾ	2128	tɥe	1787	mɐtar	2128	uʧide	2459	uʧːidere	2459
+44	knee	roðiʎa	962	ʒənu	302	ʒuɐʎu	302	ʤenunkʲ	302	ʤinɔkkjo	302
+45	know (V)	konoθer	1660	savwaʁ	2377	kuɲəser	1660	ʃti	2463	konoʃʃere	1660
+45	know (V)	saβeɾ	2377	kɔnɛtʁ	1660	sɐber	2377	kunwaʃte	1660	sapere	2377
+46	leaf	oxa	2100	fœj	2100	foʎɐ	2100	fwaje	2100	fɔʎʎa	2100
+47	lie 1 (V)	kostaðo	568	kuʃe	2725	dɐjtar	2863	kulka	2725	ʤaʧere	2863
+48	liver	iɣaðo	8000	fwɑ	8000	figɐdu	8000	fikat	8000	feɡato	8000
+49	long	laɾɣo	653	lõ	186	lõgu	186	luŋ	186	lunɡo	186
+50	louse	pjoxo	2015	pu	2015	pi.oʎu	2015	pəduke	2015	pidɔkkjo	2015
+51	man	-	0	-	0	ɔmɐ̃	395	bərbat	112	-	0
+51	man	-	0	-	0	-	0	om	395	-	0
+52	many	muʧo	770	boku	1549	mũj̃tu	770	mulʦʲ	770	molto	770
+53	meat	kaɾne	618	ʃɛʁ	618	karnə	618	karne	618	karne	618
+53	meat	-	0	vjɑ̃d	1395	-	0	-	0	-	0
+54	moon	luna	2341	lyn	2341	luɐ	2341	lunə	2341	luna	2341
+55	mountain	montaɲa	2169	mɔ̃taɲ	2169	mõtə	2169	munte	2169	montaɲɲa	2169
+56	mouth	boka	1419	buʃ	1419	bokɐ	1419	gurə	324	bokka	1419
+57	name	nombɾe	231	nɔ̃	231	nomə	231	nume	231	nome	231
+58	neck	kweʎo	562	ku	562	kɔlu	562	gɨt	-13002	kɔllo	562
+59	new	nweβo	809	nœf	809	novu	809	now	809	nwɔvo	809
+60	night	noʧe	815	nɥi	815	nojtə	815	nwapte	815	nɔtte	815
+61	nose	naɾiθ	807	ne	807	nɐriʃ	807	nas	807	naso	807
+62	not	no	3074	nə	3074	nɐ̃w	3074	nu	3074	non	3074
+63	one	uno	3250	œ̃	3250	ũ	3250	unu	3250	uno	3250
+64	person	ombɾe	395	ɔm	395	ɔmɐ̃	395	om	395	wɔmo	395
+65	rain (V)	ʎuβja	2033	plɥi	2033	ʃuvɐ	2033	plwaje	2033	pjɔʤːa	2033
+66	red	roxo	2279	ʁuj	2279	vərmeʎu	1181	roʃu	-2279	rosso	2279
+67	road	bia	1395	ʃɛmɛ̃	-13004	əʃtradɐ	2577	kale	430	strada	2577
+67	road	-	0	-	0	viɐ	1395	-	0	via	1395
+68	root	ra.iθ	1225	ʁasin	1225	ʀɐ.iʃ	1225	rədəʧinə	1225	radiʧe	1225
+69	round	reðondo	962	ʁɔ̃	962	ʀədõdu	962	rotund	962	rotondo	962
+70	sand	aɾena	2704	sabl	2726	ɐrɐjɐ	2704	nisip	-13005	sabbja	2726
+71	say (V)	deθiɾ	1869	diʁ	1869	dizer	1869	ziʧe	1869	dire	1869
+72	see (V)	beɾ	1403	vwaʁ	1403	ver	1403	vedea	1403	vedere	1403
+73	seed	semiʎa	2379	semɑ̃s	2379	səmẽtə	2379	səmɨnʦə	2379	seme	2379
+73	seed	-	0	ɡʁɛn	304	-	0	-	0	-	0
+74	sit (V)	sentaðo	2408	ɛtʁasi	2408	sẽtar	2408	ʃedea	2408	sedere	2408
+75	skin	pjel	896	po	896	pɛlə	896	pjele	896	pɛlle	896
+75	skin	-	0	-	0	koru	1053	-	0	-	0
+76	sleep (V)	doɾmiɾ	1910	dɔʁmiʁ	1910	durmir	1910	dormi	1910	dormire	1910
+77	small	pekeɲo	2023	pəti	8007	pəkenu	2023	mik	-13006	pikkolo	2023
+78	smoke	umo	1927	fyme	1927	fumu	1927	fum	1927	fumo	1927
+79	stand (V)	-	0	-	0	-	0	sta	2540	stare	2540
+80	star	estɾeʎa	1063	etwal	1063	əʃtrelɐ	1063	stea	1063	stella	1063
+81	stone	pjeðɾa	8010	pjɛʁ	8010	pɛdrɐ	8010	pjatrə	8010	sasso	2397
+82	sun	sol	982	sɔlɛj	982	sɔl	982	sware	982	sole	982
+83	swim (V)	naðaɾ	2639	naʒe	803	nɐdar	2639	ɨnota	2639	nwotare	2639
+84	tail	kola	1440	kø	1440	kawdɐ	1440	kwadə	1440	koda	1440
+84	tail	ravo	948	-	0	ʀabu	948	-	0	-	0
+85	that	akel	2917	səla	2917	ɐkelə	2917	aʧel	2917	kwello	2917
+86	this	este	3020	səsi	2917	əʃtə	3020	aʧest	2917	kwesto	2917
+87	thou	tu	2949	ty	2949	tu	2949	tu	2949	tu	2949
+88	tongue	leŋɡwa	189	lɑ̃ɡ	189	lĩgwɐ	189	limbə	189	liŋɡwa	189
+89	tooth	djente	222	dɑ̃	222	dẽtə	222	dinte	222	dɛnte	222
+90	tree	arvol	2684	aʁbʁ	2684	arvurə	2684	arbore	2684	albero	2684
+91	two	dos	2950	dø	2950	doiʃ	2950	doj	2950	due	2950
+92	walk (V)	andar	1302	vɛ	1383	ɐ̃dar	1302	umbla	8004	vo	1383
+92	walk (V)	boi	1383	ale	8005	-	0	-	0	andare	1302
+93	warm	kaliðo	1545	ʃo	1545	kẽtə	1545	kald	1545	tiepido	1800
+94	water	aɣwa	40	o	40	agwɐ	40	apə	40	akkwa	40
+95	we	nosotɾos	3075	nu	3075	nɔʃ	3075	noj	3075	noi	3075
+96	what	ke	2940	kwa	2940	kə	2940	ʧe	2940	ke	2940
+97	white	blaŋko	8001	blɑ̃	8001	alvu	75	alb	75	bjanko	8001
+98	who	kjen	2940	ki	2940	kɐ̃j	2940	ʧine	2940	ki	2940
+99	woman	muxeɾ	2202	fam	1482	muʎɛr	2202	femeje	1482	dɔnna	193
+100	yellow	amaɾiʎo	830	ʒon	15001	ɐmɐrɛlu	830	ɡalben	15001	ʤallo	15001
+101	far	lexano	2670	lwɛ̃	186	lõʒə	186	depərte	1993	lontano	186
+102	heavy	pesaðo	2602	luʁ	2733	pəzadu	2602	grew	347	pesante	2602
+103	near	θerka	613	prɔʃ	2946	prɔsimu	2946	apropia	2946	prossimo	2946
+104	salt	sal	988	sɛl	988	sal	988	sare	988	sale	988
+105	short	koɾto	2511	kuʁ	2511	kurtu	2511	skurt	2511	brɛve	800
+105	short	breve	800	bʁɛf	800	brɛvə	800	-	0	korto	2511
+106	snake	kulevra	1058	sɛʁpɑ̃	2426	sərpẽtə	2426	ʃarpe	2426	sɛrpɛnte	2426
+106	snake	seɾpjente	2426	-	0	kɔbrɐ	1058	-	0	-	0
+107	thin	delɣaðo	323	mɛ̃s	2139	finu	1921	subʦire	1795	fine	1921
+107	thin	sutil	1795	-	0	dɛlgadu	323	fin	1921	sottile	1795
+108	wind	bjento	1387	vɑ̃	1387	vẽtu	1387	vɨnt	1387	vɛnto	1387
+109	worm	berme	1181	vɛʁ	1181	vɛrmə	1181	vjerme	1181	vɛrme	1181
+110	year	aɲo	37	ɑ̃	37	ɐnu	37	an	37	anno	37

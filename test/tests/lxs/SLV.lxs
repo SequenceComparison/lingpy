@@ -1,0 +1,123 @@
+ID	Words	Russian	COG	Polish	COG	Bulgarian	COG	Czech	COG
+1	all	fsʲe	1268	fʃɨsʦɨ	1268	vsiʧki	1268	fʃɪxnʲɪ	1268
+2	ashes	zɐla	337	pɔpʲuw	899	pɛpɛl	899	popɛl	899
+2	ashes	pʲepɪlʲ	899	-	0	-	0	-	0
+3	bark	kɐra	1053	kɔra	1053	kora	1053	kuːra	1053
+4	belly	ʒɨvot	1747	bʒux	157	korɛm	-14001	brɪxo	157
+5	big	bɐlʲʃoj	90	vʲɛlki	1453	golʲam	1636	vɛlkiː	1453
+5	big	-	0	duʒɨ	1935	-	0	-	0
+6	bird	ptʲiʦə	2023	ptak	2023	ptiʦə	2023	ptaːk	2023
+7	bite (V)	kusatʲ	1486	ssaʨ	1486	xəpa	1488	kowsat	1486
+8	black	ʧornɨj	500	ʧarnɨ	500	ʧɛrɛn	500	ʧɛrniː	500
+9	blood	krofʲ	624	krɛf	624	krɤf	624	krɛf	624
+10	bone	kosʲtʲ	558	kɔɕʨ	558	kɔst	558	kost	558
+11	breast	ɡrutʲ	383	pʲɛrɕ	2001	ɡrɤt	383	pr̩sa	2001
+12	burn (V)	ʒetʲ	1937	paliʨ	2011	ɡɔra	1765	paːlit	2011
+13	claw	noɡətʲ	832	paznɔkʲɛʨ	832	nɔkət	832	nɛɦɛt	832
+14	cloud	obləkə	1461	ɔbwɔk	1461	ɔblək	1461	oblak	1461
+15	cold	xɐlodnɨj	460	xwɔdnɨ	460	studɛn	2557	xladniː	460
+15	cold	-	0	ʑimnɨ	370	-	0	stʊdɛniː	2557
+16	come (V)	prʲɪjtʲi	1306	pʃɨjɕʨ	1306	idvam	1306	prɪjiːt	1306
+16	come (V)	prʲɪxɐdʲitʲ	2412	pʃɨxɔʥiʨ	2412	-	0	-	0
+17	die (V)	umʲɪrʲetʲ	2183	umʲɛraʨ	2183	umrɤ	2183	ʊmiːrat	2183
+18	dog	sɐbakə	30001	pʲɛs	1974	kuʧɛ	30000	pɛs	1974
+18	dog	pʲos	1974	-	0	-	0	-	0
+19	drink (V)	pʲitʲ	2019	piʨ	2019	pijə	2019	piːt	2019
+20	dry	suxoj	983	suxɨ	983	sux	983	sʊxiː	983
+21	ear 1	uxə	15	uxɔ	15	uxɔ	15	ʊxo	15
+22	earth	zʲɪmlʲa	395	ʑɛmʲa	395	zɛmʲə	395	zɛmʲɛ	395
+23	eat (V)	jesʲtʲ	1323	jɛɕʨ	1323	jam	1323	jiːst	1323
+24	egg	jɪjʦo	2968	jajkɔ	2968	jəiʦɛ	2968	vɛjʦɛ	2968
+25	eye	ɡlas	332	ɔkɔ	822	okɔ	822	oko	822
+26	fat	ʒɨr	1747	twuʃʧ	3228	məznina	2129	tʊk	1788
+26	fat	-	0	-	0	-	0	saːdlo	2408
+27	feather	pʲɪro	865	pʲurɔ	865	pɛrɔ	865	pɛːro	865
+28	fire	ɐɡonʲ	1256	ɔɡʲɛnʲ	1256	ɔɡən	1256	oɦɛnʲ	1256
+29	fish	rɨbə	2275	rɨba	2275	ribə	2275	rɪba	2275
+30	fly (V)	lʲɪtʲetʲ	3152	lataʨ	3152	lɛtʲə	3152	lɛːtat	3152
+31	foot	nɐɡa	832	nɔɡa	832	krak	1258	noɦa	832
+32	full	polnɨj	2012	pɛwnɨ	2012	pɤlɛn	2012	pl̩niː	2012
+33	give (V)	datʲ	1909	davaʨ	1909	davəm	1909	daːt	1909
+34	good	xɐroʃɨj	2513	dɔbrɨ	1914	dobɤr	1914	dobriː	1914
+35	green	zʲɪlʲonɨj	372	ʑɛlɔnɨ	372	zɛlɛn	372	zɛlɛniː	372
+36	hair	voləsɨ	1227	vwɔsɨ	1227	kɔsəm	470	vlasɪ	1227
+37	hand	ruka	2021	rɛ̃ka	2021	rəka	2021	rʊka	2021
+38	head	ɡəlɐva	286	ɡwɔva	286	ɡləva	286	ɦlava	286
+39	hear (V)	sluʃatʲ	1589	swɨʃɛʨ	1589	ʧuvəm	1507	slɪʃɛt	1589
+40	heart	sʲɛrʦə	493	sɛrʦɛ	493	sərʦɛ	493	sr̩ʦɛ	493
+41	horn	rok	2132	ruk	2132	rok	2132	rox	2132
+42	i	ja	2956	ja	2956	as	2956	jaː	2956
+43	kill (V)	ubʲitʲ	2058	zabijaʨ	2058	ubivəm	2058	zabiːjɛt	2058
+44	knee	kɐlʲenə	1059	kɔlanɔ	1059	kolʲano	1059	kolɛno	1059
+45	know (V)	znatʲ	1660	znaʨ	1660	znajə	1660	znaːt	1660
+45	know (V)	-	0	vʲɛʥɛʨ	1403	-	0	vʲɛdʲɛt	1403
+46	leaf	lʲist	1390	liɕʨ	1390	list	1390	lɪst	1390
+47	lie 1 (V)	lʲɪʒatʲ	2359	lɛʒɛʨ	2359	lɛʒə	2359	lɛʒɛt	2359
+48	liver	pʲeʧʲɪnʲ	1983	vɔ̃trɔba	227	drop	1964	jaːtra	226
+49	long	dlʲinnɨj	186	dwuɡi	186	dɤlək	186	dlowɦiː	186
+50	louse	voʃ	1176	vɛʃ	1176	vɤʃkə	1176	vɛʃ	1176
+51	man	muʃʃinə	751	mɛ̃ʃʧɨzna	751	mɤʃ	751	mʊʃ	751
+52	many	mnoɡə	754	vʲɛlɛ	1453	mnɔgo	754	mnoɦo	754
+52	many	-	0	duʒɔ	1935	-	0	-	0
+53	meat	mʲasə	750	mʲɛ̃sɔ	750	mɛsɔ	750	maso	750
+54	moon	luna	2341	kɕɛ̃ʒɨʦ	-14002	luna	2341	mʲɛsiːʦ	758
+55	mountain	ɡɐra	346	ɡura	346	plənina	2679	ɦora	346
+55	mountain	-	0	-	0	-	0	vr̩x	1215
+56	mouth	rot	2268	usta	821	usta	821	uːsta	821
+57	name	imʲə	231	imʲɛ̃	231	imɛ	231	jmɛːno	231
+58	neck	ʃejə	2435	ʃɨja	2435	ʃijə	2435	kr̩k	611
+58	neck	-	0	-	0	vrat	1436	-	0
+59	new	novɨj	809	nɔvɨ	809	nɔf	809	noviː	809
+60	night	noʧ	815	nɔʦ	815	nɔʃt	815	noʦ	815
+61	nose	nos	807	nɔs	807	nɔs	807	nos	807
+62	not	nʲɛ	3074	nʲɛ	3074	nɛ	3074	nɛ	3074
+63	one	ɐdʲin	3250	jɛdɛn	3250	ɛdnɔ	3250	jɛdɛn	3250
+64	person	ʧʲɪlɐvʲɛk	1047	ʧwɔvʲɛk	1047	ʧovɛk	1047	ʧlovʲɛk	1047
+65	rain (V)	doʃtʲ	1878	dɛʃʧ	1878	dɤʃt	1878	dɛːʃtʲ	1878
+66	red	krasnɨj	1495	ʧɛrvɔnɨ	518	ʧɛrvɛn	518	ʧɛrvɛniː	518
+67	road	dɐroɡə	2854	drɔɡa	2854	pɤt	870	ʦɛsta	2458
+68	root	korʲɪnʲ	512	kɔʒɛɲ	512	kɔrɛn	512	korɛn	512
+69	round	kruɡlɨj	613	ɔkrɔ̃ɡwɨ	613	krɤgəl	613	okrowɦliː	613
+70	sand	pʲɪsok	907	pʲasɛk	907	pʲasək	907	piːsɛk	907
+71	say (V)	skɐzatʲ	1614	pɔvʲɛʥɛʨ	75	kaʒə	1614	riːkat	2282
+72	see (V)	vʲidʲɪtʲ	1403	viʥɛʨ	1403	viʒdəm	1403	vɪdʲɛt	1403
+73	seed	sʲemʲə	2379	ɕɛmʲɛ̃	2379	sɛmɛ	2379	sɛmɛno	2379
+74	sit (V)	sʲɪdʲetʲ	2408	ɕɛʥɛʨ	2408	sɛdʲɤ	2408	sɛdʲɛt	2408
+75	skin	koʒə	525	skura	1053	kɔʒə	525	kuːʒɛ	525
+76	sleep (V)	spatʲ	2443	spaʨ	2443	spa	2443	spaːt	2443
+77	small	malʲɪnʲkʲɪj	778	mawɨ	778	malək	778	maliː	778
+78	smoke	dɨm	1927	dɨm	1927	dim	1927	diːm	1927
+79	stand (V)	stɐjatʲ	2540	staʨ	2540	stɔjə	2540	staːt	2540
+80	star	zvʲɪzda	3125	ɡvʲazda	3125	zvɛzda	3125	ɦvʲɛzda	3125
+81	stone	kamʲɪnʲ	24	kamʲɛɲ	24	kamək	24	kaːmɛn	24
+82	sun	sonʦə	982	swɔnʲʦɛ	982	slɤnʦɛ	982	slʊnʦɛ	982
+83	swim (V)	plɨtʲ	2033	pwɨvaʨ	2033	pluvəm	2033	plavat	2033
+84	tail	xvost	338	ɔɡɔn	1758	opaʃkə	2478	oʦas	1559
+85	that	to	3020	tamtɔ	3020	ɔnzi	3076	tamto	3020
+86	this	ɛtə	3020	tɔ	3020	tɔzi	3020	toto	3020
+87	thou	tɨ	2949	tɨ	2949	ti	2949	tɪ	2949
+88	tongue	jɪzɨk	189	jɛ̃zɨk	189	ɛzik	189	jazɪk	189
+89	tooth	zup	315	zɔ̃p	315	zɤp	315	zʊp	315
+90	tree	dʲerʲɪvə	188	dʒɛvɔ	188	dərvɔ	188	strom	2569
+91	two	dva	2950	dva	2950	dva	2950	dva	2950
+92	walk (V)	ɪtʲi	1306	iɕʨ	1306	vɛrvʲə	2267	jiːt	1306
+93	warm	tʲoplɨj	1800	ʨɛpwɨ	1800	tɔpəl	1800	tɛpliː	1800
+94	water	vɐda	1204	vɔda	1204	voda	1204	voda	1204
+95	we	mɨ	3162	mɨ	3162	niɛ	3075	mɪ	3162
+96	what	ʃto	2940	ʦɔ	2940	kakvɔ	2940	ʦo	2940
+97	white	bʲelɨj	129	bʲawɨ	129	bal	129	biːliː	129
+98	who	kto	2940	ktɔ	2940	koj	2940	ɡdo	2940
+99	woman	ʒɛnʃʃʲɪnə	345	kɔbʲɛta	412	ʒɛna	345	ʒɛna	345
+100	yellow	ʒoltɨj	2677	ʒuwtɨ	2677	ʒɤlt	2677	ʒlʊtiː	2677
+101	far	dɐlʲokʲɪj	186	dalɛki	186	dəlɛʧɛn	186	dalɛkiː	186
+102	heavy	tʲɪʒolɨj	1812	ʨɛ̃ʃki	1812	tɛʒək	1812	tʲɛʃkiː	1812
+103	near	blʲizkʲɪj	2121	bliskɨ	2121	blizək	2121	bliːskiː	2121
+104	salt	solʲ	988	sul	988	sol	988	suːl	988
+105	short	kɐrotkʲɪj	2511	krutki	2511	kratək	2511	kraːtkiː	2511
+105	short	-	0	-	0	kɤs	1486	-	0
+106	snake	zmʲɪja	272	ʒmija	272	zmija	272	ɦat	351
+106	snake	-	0	vɔ̃ʒ	1172	-	0	-	0
+107	thin	tonkʲɪj	1118	ʨɛ̃nki	1118	tɤnək	1118	tɛŋkiː	1118
+108	wind	vʲetʲɪr	1387	vʲatr	1387	vʲatər	1387	-	0
+109	worm	ʧerfʲ	518	ʧɛrf	518	ʧɛrvɛj	518	ʧɛrf	518
+110	year	ɡot	1630	rɔk	2282	ɡodinə	1630	rok	2282

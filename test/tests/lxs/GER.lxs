@@ -1,0 +1,136 @@
+ID	Words	German	COG	English	COG	Danish	COG	Swedish	COG	Icelandic	COG	Dutch	COG	Norwegian	COG
+1	all	al	1304	ɔːl	1304	æˀl	1304	alː	1304	at͡lir	1304	ɑlə	1304	ɑlə	1304
+2	ashes	aʃə	2795	æʃ	2795	asg	2795	asːka	2795	aska	2795	ɑs	2795	ɑsk	-2795
+3	bark	rɪndə	3188	bɑːrk	-99	bɑːg	99	barːk	99	bœrkʏr	99	bɑst	2570	bɑɾk	-99
+4	belly	baux	1419	bɛlɪ	140	ɔnʌliwˀ	2524	maːge	725	kʰvɪːðʏr	350	bœyk	1419	mɑːgə	725
+4	belly	-	0	-	0	mæːvə	725	buk	1419	-	0	-	0	bʉːk	1419
+5	big	ɡroːs	1726	bɪɡ	1419	sdoˀʁ	1074	stoːr	1074	stouːr	1074	xroːt	1726	stuːɾ	-1074
+5	big	-	0	ɡreɪt	1726	-	0	-	0	mɪːcɪt͡l	747	-	0	-	0
+6	bird	foːɡəl	2023	bɜːrd	117	fuˀl	2023	foːgel	2023	fʏkl	2023	voːɣəl	2023	fʉːl	2023
+7	bite (V)	baisən	2059	baɪt	2059	biːðə	2059	biːta	2059	piːta	2059	bɛɪtə	2059	biːtə	2059
+8	black	ʃvart͡s	1030	blæk	2118	sɒːd	1030	svartː	1030	svar̥tʏr	1030	zʋɑrt	1030	sɔʈ	1030
+9	blood	bluːt	2100	blʌd	2100	bloˀð	2100	bloːd	2100	plouːθ	2100	bluːt	2100	bluː	2100
+10	bone	knɔxən	3167	bəʊn	2584	beˀn	2584	beːn	2584	peiːn	2584	beːn	2584	beːn	2584
+11	breast	brʊst	157	brɛst	157	bʁœsd	157	brøst	157	b̥rjousd̥	157	bɔrst	157	bɾyst	-157
+12	burn (V)	brɛnən	2094	bɜːrn	2094	bʁanə	2094	brɛnːa	2094	b̥rɛtna	2094	brɑndə	2094	bɾenə	2094
+13	claw	naːɡəl	832	neɪl	832	nɑjˀl	832	naːgel	832	nakl	832	naːɣəl	832	næjl	832
+14	cloud	vɔlkə	1234	klaʊd	335	sgyˀ	2914	ɧyː	2914	sciː	2914	ʋɔlk	1234	ʃyː	-2914
+14	cloud	-	0	-	0	-	0	moːln	2212	-	0	-	0	-	0
+15	cold	kalt	1703	kəʊld	1703	kʌlˀ	1703	kalː	1703	kʰaltʏr	1703	kɑut	1703	kɑl	-1703
+16	come (V)	kɔmən	1753	kʌm	1753	kʌmə	1753	komːa	1753	kʰɔːma	1753	aːŋkoːmə	1753	kɔmə	1753
+17	die (V)	ʃtɛrbən	2571	daɪ	-1924	døˀ	1924	dø	1924	teiːja	1924	stɛrvə	2571	døː	1924
+18	dog	hʊnt	526	dɔɡ	2617	hunˀ	526	hunːd	526	hʏntʏr	526	hɔnt	526	hʉn	-526
+19	drink (V)	trɪŋkən	2854	drɪŋk	2854	dʁɛgə	2854	drikːa	2854	trɛʰka	2854	drɪŋkə	2854	dɾikə	-2854
+20	dry	trɔkən	918	draɪ	918	tɶˀʁ	1830	torː	1830	θʏrː	1830	droːx	918	tœɾ	1830
+21	ear	oːr	15	ɪər	15	øːʌ	15	øːra	15	eiːra	15	oːr	15	øːɾə	15
+22	earth	eːrdə	236	ɜːrθ	236	joˀʁ	236	joːrd	236	jœrð	236	aːrdə	236	juːɾ	-236
+23	eat (V)	ɛsən	1323	iːt	1323	sbiːsə	-5000	ɛːta	1323	pɔrða	111	eːtə	1323	spiːsə	-5000
+24	egg	ai	2968	ɛɡ	2968	ɛˀg	2968	egː	2968	ɛkː	2968	ɛɪ	2968	eg	2968
+25	eye	auɡə	822	aɪ	822	ʌjə	822	øːga	822	øyːɣa	822	oːx	822	œjə	822
+26	fat	fɛt	-919	fæt	919	fed	919	fɛt	919	fɪːta	919	vɛt	919	fet	-919
+27	feather	feːdər	1985	fɛðər	1985	fjeðˀʌ	1985	fjɛːder	1985	fjœːðʏr	1985	veːr	1985	fjæːɾ	1985
+28	fire	fɔyər	859	faɪər	859	ilˀ	1275	elːd	1275	ɛltʏr	1275	vyːr	859	ʋɑɾmə	1765
+28	fire	-	0	-	0	-	0	-	0	-	0	-	0	il	1275
+29	fish	fɪʃ	856	fɪʃ	856	fesg	856	fisːk	856	fɪskʏr	856	vɪs	856	fisk	856
+30	fly (V)	fliːɡən	2035	flaɪ	2035	flyːvə	2035	flʉga	2035	fljuːa	2035	vliːɣə	2035	flyː	2035
+31	foot	fuːs	868	fʊt	868	foˀð	868	foːt	868	fouːtʏr	868	vuːt	868	fuːt	868
+32	full	fɔl	2012	fʊl	2012	fulˀ	2012	fulː	2012	fʏt͡lʏr	2012	vɔl	2012	fʉl	2012
+33	give (V)	ɡeːbən	1489	ɡɪv	1489	giˀ	1489	jiːva	1489	cɛːva	1489	xeːvə	1489	jiː	1489
+34	good	ɡuːt	1630	ɡʊd	1630	goˀ	1630	guːd	1630	kouːðʏr	1630	xuːt	1630	guː	1630
+35	green	ɡryːn	1724	ɡriːn	1724	gʁɶnˀ	1724	grøːn	1724	krait͡n	1724	xruːn	1724	gɾœn	1724
+36	hair	haːr	508	hɛər	508	hɒˀ	508	hoːr	508	hauːr	508	haːr	508	hoːɾ	508
+37	hand	hant	1104	hænd	1104	hʌnˀ	1104	hanːd	1104	hœnt	1104	hɑnt	1104	hɔn	-1104
+38	head	kɔp͡f	-5002	hɛd	647	hoːəð	647	huːvud	647	hœvʏð	647	hoːft	647	huːdə	647
+39	hear (V)	høːrən	1507	hɪər	1507	høːʌ	1507	høːra	1507	heiːra	1507	hoːrə	1507	høːɾə	1507
+40	heart	hɛrt͡s	493	hɑːrt	493	jæʁdə	493	jɛrta	493	çar̥ta	493	hɑrt	493	jæʈə	-493
+41	horn	hɔrn	487	hɔːrn	487	hoʁˀn	487	hoːrn	487	hɔrt͡n	487	hoːrn	487	huːɳ	487
+42	I	ɪx	2956	aɪ	2956	jɑj	2956	jaːg	2956	jɛɣ	2956	ɪk	2956	jæj	2956
+43	kill (V)	tøːtən	1924	kɪl	1767	dʁɛːbə	1964	døːda	1924	trɛːpa	1964	doːdə	1924	dɾeːpə	1964
+43	kill (V)	-	0	-	0	-	0	drɛpa	1964	-	0	-	0	-	0
+44	knee	kniː	302	niː	302	knɛˀ	302	knɛː	302	kʰniɛː	302	kniː	302	kneː	302
+45	know (V)	vɪsən	1403	nəʊ	1660	viːðə	1403	ɕɛnna	1660	vɪːta	1403	ʋeːtə	1403	ʋiːtə	1403
+45	know (V)	kɛnən	1660	-	0	kɛnə	1660	veta	1403	-	0	kɛnə	1660	çenə	1660
+46	leaf	blat	2100	liːf	679	blað	2100	blad	2100	plaːð	2100	blɑt	2100	blɑː	-2100
+46	leaf	-	0	-	0	-	0	blad	2100	løyːv	679	-	0	løːʋ	679
+47	lie (V)	liːɡən	2359	laɪ	2359	legə	2359	ligːa	2359	lɪcːa	2359	lɪɣə	2359	ligə	2359
+48	liver	leːbər	2883	lɪvər	2883	lewˀʌ	2883	leːver	2883	lɪːvʏr	2883	leːvər	2883	leʋəɾ	-2883
+49	long	laŋ	186	lɔŋ	186	lɑŋˀ	186	loŋː	186	laŋkʏr	186	lɑŋ	186	lɑŋ	186
+50	louse	laus	650	laʊs	650	luˀs	650	luːs	650	luːs	650	lœys	650	lʉːs	650
+51	man	man	751	mæn	751	manˀ	751	manː	751	maːðʏr	751	mɑn	751	mɑn	751
+52	many	fiːl	2013	mɛnɪ	754	mɑŋən	754	mʏkɛt	747	mɪːcɪð	747	veːl	2013	mɑŋə	754
+52	many	-	0	mʌʧ	747	-	0	moŋːa	754	-	0	-	0	meːgət	747
+53	meat	flaiʃ	1121	miːt	2913	køð	308	ɕøtː	308	kʰjœːt	308	vleːs	1121	çœt	308
+54	moon	moːnt	758	muːn	758	mɔːnə	758	moːne	758	tʰuŋl	180	maːn	758	mɑːnə	758
+54	moon	-	0	-	0	-	0	-	0	mauːnɪ	758	-	0	-	0
+55	mountain	bɛrk	128	maʊntɪn	-5003	bjæʁˀw	128	bɛrːj	128	fjat͡l	906	bɛrx	128	fjel	906
+55	mountain	-	0	-	0	fjɛlˀ	906	-	0	-	0	-	0	-	0
+56	mouth	mʊnt	755	maʊð	755	mɔnˀ	755	munː	755	mʏnːʏr	755	mɔnt	755	mʉn	755
+57	name	naːmə	231	neɪm	231	nɑwˀn	231	namːn	231	napn	231	naːm	231	nɑʋn	-231
+58	neck	hals	562	nɛk	2876	halˀs	562	halːs	562	hauls	562	hɑls	562	hɑls	562
+58	neck	-	0	-	0	-	0	-	0	-	0	nɛk	2876	-	0
+59	new	nɔy	809	njuː	809	nyˀ	809	nyː	809	niːr	809	niːʋ	809	nyː	809
+60	night	naxt	815	naɪt	815	nad	815	natː	815	nouʰt	815	nɑxt	815	nɑt	815
+61	nose	naːzə	807	nəʊz	807	nɛːsə	807	nɛːsa	807	nɛːv	2640	nœːs	807	neːsə	807
+62	not	nɪxt	3074	nɔt	3074	egə	3087	ikːe	3087	ɛʰcɪ	3087	niːt	3074	ikə	3087
+63	one	ain	3250	ʋʌn	3250	eˀn	3250	en	3250	eit͡n	3250	eːn	3250	eːn	3250
+64	person	mɛnʃ	751	mæn	751	mɛnəsgə	751	mɛniʃa	751	maːðʏr	751	mɛns	751	menəskə	751
+65	rain (V)	reːɡən	2288	reɪn	2288	ʁɑjˀn	2288	reŋːn	2288	rɛkn	2288	reːɣə	2288	ɾæjnə	2288
+66	red	roːt	2279	rɛd	2279	ʁœðˀ	2279	røːd	2279	røyːðʏr	2279	roːt	2279	-	0
+67	road	veːk	1417	rəʊd	2261	vɑjˀ	1417	vɛːg	1417	vekʏr	1417	ʋɛx	1417	-	0
+67	road	-	0	ʋeɪ	1417	-	0	-	0	-	0	-	0	-	0
+68	root	vʊrt͡səl	1225	ruːt	1225	ʁoˀð	1225	roːt	1225	rouːt	1225	ʋɔrtəl	1225	-	0
+69	round	rʊnt	-5004	raʊnd	-5004	ʁɔnˀ	-5004	runːd	-5004	kʰriŋlouʰtʏr	1682	rɔnt	-5004	-	0
+70	sand	zant	2727	sænd	2727	sanˀ	2727	sanːd	2727	santʏr	2727	zɑnt	2727	-	0
+71	say (V)	zaːɡən	2403	seɪ	2403	siː	2403	sɛja	2403	seiːja	2403	zɛɣə	2403	siː	2403
+72	see (V)	zeːən	2404	siː	2404	seˀ	2404	seː	2404	sjauː	2404	ziːn	2404	seː	2404
+73	seed	zaːmən	2379	siːd	2379	fʁœˀ	2628	frøː	2628	fraiː	2628	zaːt	2379	fɾøː	2628
+74	sit (V)	zɪt͡sən	2408	sɪt	2408	seðə	2408	sitːa	2408	sɪːtja	2408	zɪtə	2408	sitə	2408
+75	skin	haut	1051	skɪn	-2493	huðˀ	1051	ɧinː	2493	huːð	1051	vɛl	896	hʉːd	1051
+75	skin	-	0	-	0	-	0	huːd	1051	scɪnː	2493	hœyt	1051	-	0
+76	sleep (V)	ʃlaːfən	692	sliːp	692	sɒwə	2443	soːva	2443	sɔːva	2443	slaːpə	692	soːʋə	2443
+77	small	klain	1212	smɔːl	778	lilə	677	liːten	677	liːtɪt͡l	677	klɛɪn	1212	liːtən	677
+77	small	-	0	lɪtḷ	677	liːðən	677	smoː	778	smauːr	778	-	0	-	0
+78	smoke	raux	2631	sməʊk	2630	ʁʌjˀ	2631	røk	2631	reiːkʏr	2631	roːk	2631	ɾœjk	2631
+79	stand (V)	ʃteːən	2540	stænd	2540	sdɔˀ	2540	stoː	2540	stanta	2540	staːn	2540	stoː	2540
+80	star	ʃtɛrn	1063	stɑːr	1063	sdjæʁnə	1063	ɧɛːrna	1063	stjart͡na	1063	stɛr	1063	stjæːɳə	1063
+81	stone	ʃtain	2546	stəʊn	2546	sdeˀn	2546	steːn	2546	steit͡n	2546	steːn	2546	stæjn	2546
+82	sun	zɔnə	982	sʌn	982	soˀl	982	soːl	982	souːl	982	zɔn	982	suːl	982
+83	swim (V)	ʃvɪmən	2445	sʋɪm	2445	svœmə	2445	simːa	2445	synta	2420	zʋɛmə	2445	sʋœmə	2445
+84	tail	ʃvant͡s	2448	teɪl	191	hæːlə	506	ɧɛrt	3234	haːlɪ	506	staːrt	3234	hɑːlə	506
+84	tail	-	0	-	0	-	0	-	0	skɔʰt	2479	-	0	-	0
+85	that	jeːnər	3065	ðæt	3020	de	3020	də	3020	θɛsːɪ	3020	diː	3020	deː	3020
+85	that	-	0	-	0	hiˀn	2917	-	0	sauː	3084	-	0	-	0
+86	this	diːzər	3020	ðɪs	3020	dɛnə	3020	dɛta	3020	θɛsːɪ	3020	deːzə	3020	detə	3020
+86	this	-	0	-	0	dɛnə	3020	-	0	-	0	-	0	-	0
+87	thou	duː	2949	juː	3018	duˀ	2949	dʉ	2949	θuː	2949	jɛɪ	3018	dʉː	2949
+88	tongue	t͡sʊŋə	189	tʌŋ	189	tɔŋə	189	tuŋːa	189	tʰuŋka	189	tɔŋ	189	tuŋə	189
+89	tooth	t͡saːn	222	tuːθ	222	tanˀ	222	tanːd	222	tʰœnː	222	tɑnt	222	tɑn	222
+90	tree	baum	2062	triː	188	tʁɛˀ	188	trɛːd	188	tʰrjɛː	188	boːm	2062	tɾeː	188
+90	tree	-	0	-	0	-	0	-	0	vɪːðʏr	1242	-	0	-	0
+91	two	t͡svai	2950	tuː	2950	toˀ	2950	tvoː	2950	tʰveir	2950	tʋeː	2950	tuː	2950
+92	walk (V)	ɡeːən	1637	ɡəʊ	1637	gɔˀ	1637	goː	1637	faːra	1992	xaːn	1637	goː	1637
+93	warm	varm	1765	ʋɔːrm	1765	vɑˀm	1765	varːm	1765	l̥iːr	1545	ʋɑrm	1765	ʋɑɾm	1765
+94	water	vasər	1204	ʋɔːtər	1204	vanˀ	1204	vatːen	1204	vaʰtn̥	1204	ʋaːtər	1204	ʋɑn	1204
+95	we	viːr	3055	ʋiː	3055	viˀ	3055	viː	3055	vɪːð	3055	ʋɛɪ	3055	ʋiː	3055
+96	what	vas	2940	ʋɔt	2940	va	2940	vɑd	2940	xʷaːð	2940	ʋɑt	2940	ʋɑː	2940
+97	white	vais	1568	ʋaɪt	1568	viðˀ	1568	viːt	1568	xʷiːtʏr	1568	ʋɪt	1568	ʋiːt	1568
+98	who	veːr	2940	huː	2940	vɛmˀ	2940	vem	2940	xʷɛːr	2940	ʋiː	2940	ʋem	2940
+99	woman	frau	873	ʋʊmən	2638	kvenə	345	kvinːa	345	kʰɔːna	345	vrɑuʋ	873	kʋinə	345
+99	woman	vaip	2638	-	0	-	0	-	0	-	0	-	0	-	0
+100	yellow	ɡɛlp	2677	jɛləʊ	2677	guˀl	2677	guːl	2677	kʏːlʏr	2677	xeːl	2677	gʉːl	2677
+101	far	fɛrn	3007	fɑːr	3007	fjæʁˀn	3007	loŋ	186	laŋ	186	vɛr	3007	buʈ	186
+101	far	-	0	-	0	lɑŋˀ	186	fjɛrːan	3007	-	0	-	0	-	0
+102	heavy	ʃveːr	1432	hɛvɪ	1488	tɔŋˀ	1812	svoːr	1432	θuŋkʏr	1812	zʋaːr	1432	tuŋ	1812
+102	heavy	-	0	-	0	svɛˀʁ	1432	tuŋː	1812	-	0	-	0	-	0
+103	near	naːə	3132	nɪər	3132	nɛˀʁ	3132	nɛːra	3132	nauː	3132	naːbɛɪ	3132	næːɾ	3132
+103	near	-	0	kləʊs	-5005	-	0	-	0	-	0	dɪɣdbɛɪ	1809	-	0
+104	salt	zalt͡s	988	sɔːlt	988	salˀd	988	salːt	988	sal̥t	988	zɑut	988	sɑlt	988
+105	short	kʊrt͡s	-2511	ʃɔːrt	2511	kɒːd	-2511	kɔrt	-2511	stʏʰtʏr	2567	kɔrt	-2511	kɔʈ	-2511
+106	snake	ʃlaŋə	2673	sneɪk	2649	slɑŋə	2673	orːm	1181	st͡lauŋka	2673	slɑŋ	2673	ɔɾm	1181
+106	snake	-	0	-	0	-	0	-	0	-	0	-	0	ʃlɑŋə	2673
+107	thin	dʏn	1118	θɪn	1118	tønˀ	1118	smal	778	θʏnːʏr	1118	fɛɪn	-5006	tyn	1118
+107	thin	-	0	-	0	smalˀ	778	tunː	1118	-	0	dʉn	1118	smɑːl	778
+108	wind	vɪnt	1387	ʋɪnd	1387	venˀ	1387	vind	1387	vɪntʏr	1387	ʋɪnt	1387	ʋin	1387
+109	worm	vʊrm	1181	ʋɜːrm	1181	oʁˀm	1181	masːk	716	ɔrmʏr	1181	ʋɔrm	1181	mɑɾk	716
+109	worm	-	0	-	0	-	0	-	0	maθkʏr	716	maːdə	716	-	0
+110	year	jaːr	214	jɪər	214	ɒˀʁ	214	oːr	214	auːr	214	jaːr	214	oːɾ	214
